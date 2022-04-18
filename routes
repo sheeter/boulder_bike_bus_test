@@ -1,0 +1,1140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1eff00",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "🚲 Valencia St Bikeway 🚲",
+        "bike": "true",
+        "emergency": "true",
+        "direction": "N",
+        "auto": "false",
+        "kind": "bike"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42022246122359,
+            37.748224468956366
+          ],
+          [
+            -122.42024660110474,
+            37.74857652848657
+          ],
+          [
+            -122.42023587226868,
+            37.74864651602493
+          ],
+          [
+            -122.42035657167435,
+            37.749736616411184
+          ],
+          [
+            -122.42042630910872,
+            37.750625227218976
+          ],
+          [
+            -122.42047727108002,
+            37.751244491448524
+          ],
+          [
+            -122.42064088582993,
+            37.752754456474726
+          ],
+          [
+            -122.42072135210037,
+            37.7535751689212
+          ],
+          [
+            -122.42076694965363,
+            37.75376178960247
+          ],
+          [
+            -122.42078438401222,
+            37.753913418559414
+          ],
+          [
+            -122.42082729935646,
+            37.75426439068721
+          ],
+          [
+            -122.42139995098114,
+            37.760305939890195
+          ],
+          [
+            -122.42257341742511,
+            37.772372716996266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "old_name": "🚓 17th to Sycamore (SFPD only) 🚔",
+        "direction": "S",
+        "SFPD": "true",
+        "emergency": "true",
+        "auto": "false",
+        "kind": "emergency"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4218029528856,
+            37.763209906677375
+          ],
+          [
+            -122.42165073752402,
+            37.76177437108026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "🚌 12 Folsom-Pacific 🚌",
+        "SFMTA": "true",
+        "direction": "N",
+        "auto": "false",
+        "kind": "transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4199555814266,
+            37.74819371668894
+          ],
+          [
+            -122.42029085755347,
+            37.748189474995876
+          ],
+          [
+            -122.42035925388332,
+            37.748907378084745
+          ],
+          [
+            -122.42004275321955,
+            37.748920103039794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "🚌 27 Bryant 🚌",
+        "SFMTA": "true",
+        "direction": "S",
+        "auto": "false",
+        "kind": "transit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42012053728104,
+            37.75214686891561
+          ],
+          [
+            -122.42069453001024,
+            37.752117178645186
+          ],
+          [
+            -122.4203082919121,
+            37.74813327253989
+          ],
+          [
+            -122.41997569799425,
+            37.748137514236156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#2bff00",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "🚲 Valencia St Bikeway 🚲",
+        "direction": "S",
+        "bike": "true",
+        "emergency": "true",
+        "auto": "false",
+        "kind": "bike"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42258414626117,
+            37.77237059684294
+          ],
+          [
+            -122.42142677307127,
+            37.76029533739295
+          ],
+          [
+            -122.42085680365561,
+            37.75425696833316
+          ],
+          [
+            -122.42079377174377,
+            37.75375118616729
+          ],
+          [
+            -122.42075890302658,
+            37.753560324074066
+          ],
+          [
+            -122.42067575454712,
+            37.75273961146297
+          ],
+          [
+            -122.42052286863327,
+            37.75124024993034
+          ],
+          [
+            -122.42047190666199,
+            37.75061886488835
+          ],
+          [
+            -122.42039948701859,
+            37.749729193602924
+          ],
+          [
+            -122.42034450173378,
+            37.74915021226527
+          ],
+          [
+            -122.4202814698219,
+            37.748647576441684
+          ],
+          [
+            -122.420297563076,
+            37.74857122639765
+          ],
+          [
+            -122.42026269435878,
+            37.74822022726506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 6,
+        "stroke-opacity": 1,
+        "name": "parklets"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42230653762817,
+            37.769795625702194
+          ],
+          [
+            -122.42226496338844,
+            37.769323873637774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "name": "parklets",
+        "kind": "parklet",
+        "segment": "24th-25th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42072269320487,
+            37.75197721006729
+          ],
+          [
+            -122.42059528827667,
+            37.75061674411136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "side": "E",
+        "kind": "parklet",
+        "segment": "18th-19th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4214830994606,
+            37.76160579454037
+          ],
+          [
+            -122.42136240005493,
+            37.760206276355945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "side": "W",
+        "segment": "18th-19th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42165476083755,
+            37.76158989107335
+          ],
+          [
+            -122.4215219914913,
+            37.76020945710909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffff00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "loading",
+        "side": "w",
+        "segment": "18th-19th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42158636450768,
+            37.76159625246056
+          ],
+          [
+            -122.42145359516144,
+            37.76021687886594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "side": "W",
+        "segment": "19th-20th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42133557796478,
+            37.760013310407906
+          ],
+          [
+            -122.421196103096,
+            37.75864769085074
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7d00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "segment": "19th-20th",
+        "side": "E"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42149919271469,
+            37.7600090693924
+          ],
+          [
+            -122.42137312889099,
+            37.75864557030389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffff00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "loading",
+        "side": "W",
+        "segment": "19th-20th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4214321374893,
+            37.76001118990019
+          ],
+          [
+            -122.42129802703857,
+            37.75864981139756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "🚌 55-Dogpatch 🚌",
+        "kind": "transit",
+        "direction": "S",
+        "SFMTA": "true"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42167085409163,
+            37.76657387023882
+          ],
+          [
+            -122.42205440998077,
+            37.76655266703972
+          ],
+          [
+            -122.42189347743988,
+            37.76490515988178
+          ],
+          [
+            -122.42141604423523,
+            37.764932724653484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00ffff",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "school",
+        "name": "Synergy school loading island"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42051750421524,
+            37.75062416683059
+          ],
+          [
+            -122.42056041955948,
+            37.751115125034296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e1ff00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "loading",
+        "segment": "24th-25th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42055907845496,
+            37.751129970372
+          ],
+          [
+            -122.42065161466599,
+            37.75202916813092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parking"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42049604654311,
+            37.74905583575705
+          ],
+          [
+            -122.4206221103668,
+            37.7503983037552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parking",
+        "parking": "true"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42050409317015,
+            37.75040678688785
+          ],
+          [
+            -122.42038071155547,
+            37.74906219822206
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "segment": "22nd-23rd",
+        "side": "E"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4207481741905,
+            37.75382965155168
+          ],
+          [
+            -122.42088228464127,
+            37.75521338553559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffff00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "loading",
+        "segment": "22nd-23rd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42096945643424,
+            37.7552091442449
+          ],
+          [
+            -122.42084205150604,
+            37.753819048126225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "segment": "22nd-23rd",
+        "side": "W"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42102645337582,
+            37.75506812119141
+          ],
+          [
+            -122.42091447114944,
+            37.7538126860702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00ffff",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "school",
+        "segment": "23rd-24th",
+        "name": "BVHM school loading"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4206730723381,
+            37.752226396366794
+          ],
+          [
+            -122.42080718278885,
+            37.75362394482651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "segment": "23rd-24th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42090642452239,
+            37.75361652240824
+          ],
+          [
+            -122.42080852389334,
+            37.75251481520607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "segment": "16th-17th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42197662591934,
+            37.76482034513516
+          ],
+          [
+            -122.4218398332596,
+            37.76338484079471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "segment": "15th-16th",
+        "side": "E"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42184787988663,
+            37.76505994654363
+          ],
+          [
+            -122.42197662591934,
+            37.766425447717346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "side": "E",
+        "segment": "16th-17th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42180496454239,
+            37.76482670624453
+          ],
+          [
+            -122.42166280746459,
+            37.76339968367048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "side": "E",
+        "segment": "17th-18th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4216440320015,
+            37.76321308730139
+          ],
+          [
+            -122.42151260375978,
+            37.76179663587755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffff00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "loading",
+        "segment": "17th-18th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42173589766024,
+            37.763218918445055
+          ],
+          [
+            -122.42159642279148,
+            37.76177914210879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffff00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "loading",
+        "side": "W",
+        "segment": "15th-16th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42214024066925,
+            37.76642756804117
+          ],
+          [
+            -122.4220222234726,
+            37.76507478908323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffff00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "loading",
+        "segment": "16th-17th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42174863815306,
+            37.76338059997251
+          ],
+          [
+            -122.42188811302185,
+            37.7648309469838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "side": "W",
+        "segment": "17th-18th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42174461483954,
+            37.762424288358254
+          ],
+          [
+            -122.4216802418232,
+            37.76179027450756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "side": "W"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42118269205095,
+            37.75841230977745
+          ],
+          [
+            -122.42104589939117,
+            37.757042419479085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "side": "W",
+        "segment": "20th-21st"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42133826017381,
+            37.75840594811645
+          ],
+          [
+            -122.42120146751404,
+            37.75699152523311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffff00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "loading",
+        "segment": "20th-21st"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42127656936644,
+            37.75840806867017
+          ],
+          [
+            -122.42114916443825,
+            37.7569883443416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e1ff00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "loading",
+        "segment": "21st-22nd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42113441228867,
+            37.75681127449719
+          ],
+          [
+            -122.42099761962889,
+            37.755415906882504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "side": "E",
+        "segment": "21st-22nd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42104321718216,
+            37.75681975689462
+          ],
+          [
+            -122.42090642452239,
+            37.7554371132742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet",
+        "side": "W",
+        "segment": "21st-22nd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42119878530501,
+            37.756799611199156
+          ],
+          [
+            -122.42107808589934,
+            37.75543605295474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffff00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "loading",
+        "side": "W",
+        "segment": "23rd-24th"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42077633738516,
+            37.75251163412207
+          ],
+          [
+            -122.42087289690971,
+            37.753614401717144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00fffb",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "school"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42236956954001,
+            37.76924330444496
+          ],
+          [
+            -122.42232531309128,
+            37.76880335269905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00ffff",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "school"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42228440940376,
+            37.76911608975129
+          ],
+          [
+            -122.42222271859643,
+            37.76846729140933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "parklet"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42236018180846,
+            37.768702640485394
+          ],
+          [
+            -122.4223145842552,
+            37.7682425429438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffff00",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "loading"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4223145842552,
+            37.76870052022683
+          ],
+          [
+            -122.42227166891097,
+            37.76824466321554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#3a88fe",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "kind": "auto",
+        "direction": "S",
+        "name": "one-way traffic (southbound)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42225289344788,
+            37.76805595879313
+          ],
+          [
+            -122.42071196436882,
+            37.75221685307716
+          ]
+        ]
+      }
+    }
+  ]
+}
